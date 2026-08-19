@@ -1,0 +1,14 @@
+device_id	type	subtype	latitude	longitude	description	device_model
+Song1	microphone	current	52.910362	6.635514		
+Song2	microphone	current	52.9137	6.633426		
+Song3	microphone	current	52.910288	6.626961		
+Song4	microphone	current	52.91043	6.626989		
+Song5	microphone	current	52.909706	6.627376		
+Song6	microphone	current	52.911425	6.631874		
+Song7	microphone	current	52.912691	6.627056		
+SMM07123	microphone	legacy	52.913778	6.63022		
+SMM07064	microphone	legacy	52.908619	6.630613		
+SMM07126	microphone	legacy	52.90963	6.630433		
+2MM19637	microphone	legacy	52.910676	6.628752		
+2MM19562	microphone	legacy	52.912719	6.626734		
+2MM20481	microphone	legacy	52.911722	6.627503		

@@ -1,5 +1,5 @@
 from sqlalchemy import Table, Column, String, Numeric, Integer
-from database.tables.base import metadata
+from .base import metadata
 
 '''
 The Media table hold all media files used by the Corvium pipelines

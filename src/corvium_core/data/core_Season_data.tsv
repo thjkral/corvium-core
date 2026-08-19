@@ -1,0 +1,5 @@
+season_id	name_eng	name_nl	start_month	stop_month	wraps_year
+1	Spring	Lente	3	5	0
+2	Summer	Zomer	6	8	0
+3	Autumn	Herfst	9	11	0
+4	Winter	Winter	12	2	1

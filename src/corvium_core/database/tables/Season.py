@@ -1,5 +1,5 @@
 from sqlalchemy import Table, Column, String, Integer
-from database.tables.base import metadata
+from .base import metadata
 
 Season = Table('core_Season', metadata,
                Column('season_id', Integer, primary_key=True),
