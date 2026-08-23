@@ -1,7 +1,7 @@
 from sqlalchemy import Table, Column, String, Integer
-from .base import metadata
+from .base import core_metadata
 
-Season = Table('core_Season', metadata,
+Season = Table('core_Season', core_metadata,
                Column('season_id', Integer, primary_key=True),
                Column('name_eng', String(10), nullable=False),
                Column('name_nl', String(10), nullable=False),
