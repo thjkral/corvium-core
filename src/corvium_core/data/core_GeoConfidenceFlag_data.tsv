@@ -1,0 +1,6 @@
+id	name_en	name_nl	max_value	min_value	description
+1	Unlikely	Onwaarschijnlijk	0.05	0.01	The BirdNET geo model assigns a low prior likelihood that this species occurs at the specified location and time.
+2	Possible	Mogelijk	0.2	0.05	The BirdNET geo model assigns a moderate prior likelihood that this species occurs at the specified location and time.
+3	Likely	Waarschijnlijk	0.5	0.2	The BirdNET geo model assigns a high prior likelihood that this species occurs at the specified location and time.
+4	Very likely	Zeer waarschijnlijk	0.8	0.5	The BirdNET geo model assigns a very high prior likelihood that this species occurs at the specified location and time.
+5	Extremely likely	Vrijwel zeker	1	0.8	The BirdNET geo model assigns an exceptionally high prior likelihood that this species occurs at the specified location and time.
