@@ -4,9 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "corvium-core"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shared database components for the Corvium project"
 requires-python = ">=3.12"
 dependencies = [
     "sqlalchemy",
 ]
+
+[tool.setuptools.package-data]
+corvium_core = ["data/*.tsv"]
