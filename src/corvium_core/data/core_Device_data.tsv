@@ -1,14 +1,28 @@
-device_id	type	subtype	latitude	longitude	description	device_model
-Song1	microphone	current	52.910362	6.635514		
-Song2	microphone	current	52.9137	6.633426		
-Song3	microphone	current	52.910288	6.626961		
-Song4	microphone	current	52.91043	6.626989		
-Song5	microphone	current	52.909706	6.627376		
-Song6	microphone	current	52.911425	6.631874		
-Song7	microphone	current	52.912691	6.627056		
-SMM07123	microphone	legacy	52.913778	6.63022		
-SMM07064	microphone	legacy	52.908619	6.630613		
-SMM07126	microphone	legacy	52.90963	6.630433		
-2MM19637	microphone	legacy	52.910676	6.628752		
-2MM19562	microphone	legacy	52.912719	6.626734		
-2MM20481	microphone	legacy	52.911722	6.627503		
+device_id	type	subtype	observation_array	latitude	longitude	description	device_model	date_placed
+Song1	microphone	Song Meter	1	52.9223073	6.62366897		Song Meter Micro 2	19-12-2025
+Struik1	camera	Struikrover	1	52.92219938	6.62454326			19-12-2025
+Cam1	camera	Wildcamera	1	52.92230776	6.62362437			19-12-2025
+Song2	microphone	Song Meter	2	52.92277168	6.61437317		Song Meter Micro 2	19-12-2025
+Struik2	camera	Struikrover	2	52.92277168	6.61437317			19-12-2025
+Cam2	camera	Wildcamera	2	52.92277168	6.61437317			19-12-2025
+Song3	microphone	Song Meter	3	52.92092726	6.59784545		Song Meter Micro 2	19-12-2025
+Struik3	camera	Struikrover	3	52.92087947	6.59812665			19-12-2025
+Cam3	camera	Wildcamera	3	52.92092726	6.59784545			19-12-2025
+Song4	microphone	Song Meter	4	52.91218743	6.61322802		Song Meter Micro 2	19-12-2025
+Struik4	camera	Struikrover	4	52.9122051	6.61325825			19-12-2025
+Cam4	camera	Wildcamera	4	52.91216992	6.61318293			19-12-2025
+Song5	microphone	Song Meter	5	52.903811	6.61849238		Song Meter Micro 2	19-12-2025
+Struik5	camera	Struikrover	5	52.90413021	6.6180406			19-12-2025
+Cam5	camera	Wildcamera	5	52.90436811	6.61763111			19-12-2025
+Song6	microphone	Song Meter	6	52.90379497	6.62525509		Song Meter Micro 2	19-12-2025
+Struik6	camera	Struikrover	6	52.90379497	6.62525509			19-12-2025
+Cam6	camera	Wildcamera	6	52.90379497	6.62525509			19-12-2025
+Song7	microphone	Song Meter	7	52.91551228	6.62372912		Song Meter Micro 2	20-12-2025
+Struik7	camera	Struikrover	7	52.91558477	6.6236717			20-12-2025
+Cam7	camera	Wildcamera	7	52.91536416	6.62327888			20-12-2025
+SMM07123	microphone	legacy	0	52.913778	6.63022			
+SMM07064	microphone	legacy	0	52.908619	6.630613			
+SMM07126	microphone	legacy	0	52.90963	6.630433			
+2MM19637	microphone	legacy	0	52.910676	6.628752			
+2MM19562	microphone	legacy	0	52.912719	6.626734			
+2MM20481	microphone	legacy	0	52.911722	6.627503			
