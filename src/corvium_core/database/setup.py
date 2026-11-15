@@ -74,7 +74,13 @@ def populate_core_tables(engine: Engine) -> None:
 
         # Read the TSV and insert the rows.
         with tsv_file.open("r", encoding="utf-8", newline="") as file:
-            rows = list(DictReader(file, delimiter="\t"))
+            rows = [
+                {
+                    column: None if value == "" else value
+                    for column, value in row.items()
+                }
+                for row in DictReader(file, delimiter="\t")
+            ]
 
         if not rows:
             logger.warning(
